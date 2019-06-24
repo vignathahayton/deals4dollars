@@ -5,8 +5,8 @@ theme = "hugo-icon"
 
 # Metadata
 [params]
-  author = "Your name"
-  description = "Cool description"
+  author = "deals4dollars"
+  description = "deals4dollars"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
